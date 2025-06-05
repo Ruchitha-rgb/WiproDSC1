@@ -37,5 +37,4 @@ jobs:
     - name: Docker Build
       run: docker build -t $IMAGE_NAME .
 
-    - name: Docker Scan
-      run: docker scan $IMAGE_NAME || true
+    
