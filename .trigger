@@ -1,1 +1,0 @@
-Trigger DevSecOps CI pipeline
